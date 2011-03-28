@@ -1,0 +1,120 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TintedUIBarButtonItem */ = {
+		activeExec = 0;
+		executables = (
+			220C42621303E41800683B84 /* TintedUIBarButtonItem */,
+		);
+	};
+	220C42621303E41800683B84 /* TintedUIBarButtonItem */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TintedUIBarButtonItem;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	220C426D1303E43800683B84 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	220C426E1303E43800683B84 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	220C429C1303E8EC00683B84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TintedUIBarButtonItemViewController.m */;
+		name = "TintedUIBarButtonItemViewController.m: 65";
+		rLen = 0;
+		rLoc = 2511;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 1436;
+	};
+	220C42B913041A2100683B84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TintedUIBarButtonItemViewController.m */;
+		name = "TintedUIBarButtonItemViewController.m: 44";
+		rLen = 0;
+		rLoc = 1430;
+		rType = 0;
+		vrLen = 1787;
+		vrLoc = 923;
+	};
+	28D7ACF70DDB3853001CB0EB /* TintedUIBarButtonItemViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 1326}}";
+			sepNavSelRange = "{1430, 0}";
+			sepNavVisRange = "{923, 1787}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 220C42621303E41800683B84 /* TintedUIBarButtonItem */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TintedUIBarButtonItem */;
+		codeSenseManager = 220C426E1303E43800683B84 /* Code sense */;
+		executables = (
+			220C42621303E41800683B84 /* TintedUIBarButtonItem */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					664,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319032164;
+			PBXWorkspaceStateSaveDate = 319032164;
+		};
+		perUserProjectItems = {
+			220C429C1303E8EC00683B84 /* PBXTextBookmark */ = 220C429C1303E8EC00683B84 /* PBXTextBookmark */;
+			220C42B913041A2100683B84 /* PBXTextBookmark */ = 220C42B913041A2100683B84 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 220C426D1303E43800683B84 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
